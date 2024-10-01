@@ -10,6 +10,11 @@ import java.util.Locale;
  * <ul>
  *   <li>English
  *   <li>Russian
+ *   <li>German
+ *   <li>French
+ *   <li>Italian
+ *   <li>Spanish
+ *   <li>Romanian
  * </ul>
  *
  * @see TranslatedText
